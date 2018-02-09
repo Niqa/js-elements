@@ -1,0 +1,1 @@
+Simple gallery in JS with 'close' button.
